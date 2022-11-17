@@ -2,7 +2,7 @@
 * This is a "Hello World" example for Unreal Engine 4
 * I configure this project for Meta Quest 2, so I can use motioncontroller to jump and change the view angle.
 * Clone this project and play it by double-clicking the "helloWorld.uproject" 
-
+* Follow this [procedure](https://github.com/xg590/tutorials/blob/master/VR/Unreal/CPP_Hello_World.md#packaging-install-the-game-to-quest-2) to launch this project on Meta Quest 2.
 ### The section is for my self. I have a interal git server so I take this note.
 ```shell
 $ mkdir -p ~/xg590/UE4_helloWorld.git
